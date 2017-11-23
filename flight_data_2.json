@@ -1,0 +1,72 @@
+{
+    "flights": {
+        "423FDF": {
+            "date": "01-12-2017", 
+            "cost": 2500, 
+            "place": {
+                "dest": "C", 
+                "source": "A"
+            }, 
+            "seats_array": [], 
+            "time": {
+                "arrival": "1750", 
+                "departure": "1850"
+            }
+        }, 
+        "915526": {
+            "date": "01-12-2017", 
+            "cost": 4500, 
+            "place": {
+                "dest": "B", 
+                "source": "A"
+            }, 
+            "seats_array": [
+                "06fc9", 
+                "06fc9"
+            ], 
+            "time": {
+                "arrival": "1300", 
+                "departure": "1500"
+            }
+        }, 
+        "57013C": {
+            "date": "01-12-2017", 
+            "cost": 5000, 
+            "place": {
+                "dest": "B", 
+                "source": "A"
+            }, 
+            "seats_array": [], 
+            "time": {
+                "arrival": "1800", 
+                "departure": "2000"
+            }
+        }, 
+        "41C77A": {
+            "date": "01-12-2017", 
+            "cost": 2000, 
+            "place": {
+                "dest": "C", 
+                "source": "A"
+            }, 
+            "seats_array": [], 
+            "time": {
+                "arrival": "1410", 
+                "departure": "1510"
+            }
+        }, 
+        "47F0A3": {
+            "date": "01-12-2017", 
+            "cost": 6500, 
+            "place": {
+                "dest": "D", 
+                "source": "A"
+            }, 
+            "seats_array": [], 
+            "time": {
+                "arrival": "2010", 
+                "departure": "2250"
+            }
+        }
+    }
+}

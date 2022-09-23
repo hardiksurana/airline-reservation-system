@@ -96,7 +96,7 @@ plainbox==0.37.0
 ply==3.10
 prettytable==0.7.2
 prompt-toolkit==1.0.15
-protobuf==3.4.0
+protobuf==3.18.3
 psycopg2==2.7.3.2
 ptyprocess==0.5.2
 py==1.4.34

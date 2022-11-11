@@ -118,7 +118,7 @@ pyparsing==2.2.0
 PyPDF2==1.26.0
 pyquery==1.2.10
 PySocks==1.6.7
-pyspark==2.2.0
+pyspark==3.2.2
 pytest==3.2.3
 python-apt==1.1.0b1
 python-dateutil==2.6.1
